@@ -43,6 +43,7 @@ def main():
     print(find_min_max(list_inp))
     sort_temperature(list_inp)
     calc_median_temperature(list_inp)
+    print("Program finish")
 
 if __name__ == "__main__" :
     main()
